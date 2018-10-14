@@ -7,7 +7,7 @@ h1 {
 }
 .row {
   width: 100%;
-}
+
 .container {
     border: none;
     margin-left: auto;
@@ -104,5 +104,5 @@ p {
     float: left;
 }
 
-
+}
 
